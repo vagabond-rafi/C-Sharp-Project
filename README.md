@@ -1,1 +1,1 @@
-Freelancer and Client
+Freelancer and Client management system
