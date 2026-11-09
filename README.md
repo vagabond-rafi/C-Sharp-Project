@@ -1,1 +1,1 @@
-Freelancer and Client management system using C# langua
+Freelancer and Client management system using C# languag
