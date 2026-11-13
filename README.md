@@ -1,4 +1,4 @@
-# Freelancer and Client Management Syste
+# Freelancer and Client Management System
 
 A **Freelancer and Client Management System** developed using **C#** to simplify and organize the management of freelance projects, client relationships, contracts, payments, and project progress.
 
