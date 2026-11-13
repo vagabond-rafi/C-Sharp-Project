@@ -12,3 +12,12 @@ The system provides a structured platform for managing interactions between free
 - **Progress Tracking:** Maintain project progress updates and monitor ongoing work.
 - **Data Management:** Perform database operations to store, retrieve, update, and delete records.
 
+## Technologies Used
+
+- **Programming Language:** C#
+- **Framework:** .NET Framework
+- **Database:** Microsoft SQL Server
+- **Database Connectivity:** ADO.NET
+- **Development Environment:** Visual Studio
+
+
