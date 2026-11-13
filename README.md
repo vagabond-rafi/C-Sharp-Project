@@ -20,4 +20,8 @@ The system provides a structured platform for managing interactions between free
 - **Database Connectivity:** ADO.NET
 - **Development Environment:** Visual Studio
 
+## Project Purpose
+
+This project was developed to demonstrate practical skills in C# programming, database connectivity, CRUD operations, and object-oriented software development. It provides hands-on experience in building a database-driven management application.
+
 
